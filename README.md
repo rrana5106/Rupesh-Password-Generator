@@ -25,7 +25,7 @@ The main things I have learned from this project are how to use function, scope,
 N/A
 
 ## Usage
-Below is a link and screenshot of the published webpage:
+Below is a screenshot of the published webpage:
 
 ![Rupesh-Password-demo](./assets/05-javascript-challenge-demo.png)
 
